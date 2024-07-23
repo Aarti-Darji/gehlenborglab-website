@@ -2,11 +2,11 @@
 title: Aarti Darji
 name_degree: Aarti Darji
 
-photo: Aarti-Darji.jpg # this file is relative to `assets/img/members/`
+photo: aarti-darji.jpg # this file is relative to `assets/img/members/`
 alt: Professional portrait of a smiling young lady who appears to be South Asian with long wavy black hair and round glasses with a black frame sitting cross-legged on a blue chair. She's wearing a black blazer and pants with a blurred bookshelf in the background. 
 
 job_title: HuBMAP Summer Intern
-role: Student 
+role: student 
 
 services:
   home: https://aarti-darji.github.io/
